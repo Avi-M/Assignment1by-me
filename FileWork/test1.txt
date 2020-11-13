@@ -1,0 +1,17 @@
+We’re a community that can help you realize your definition of success. #kloudone
+
+Founded in 2018, KloudOne is a premier cloud enterprise company with 
+expertise in providing enterprise solutions in  ecommerce, 
+advertisement, and cybersecurity sector. Within a really short period of 
+its inauguration the company has risen to providing solutions 
+to major enterprises like RiskSense etc. The company excels in 
+cloud based technologies like Amazon Web Services, Google Cloud 
+Platform and Microsoft's Azure platform. KloudLearn a subsidary 
+of KloudOne is one of country’s best vernacular learning platform 
+with live courses on Kubernetes, Docker etc. 
+
+KloudOne encourages engineers to think out of the box and play with 
+latest technologies and explore their limits. KloudOne is looking for 
+a “Rockstar” big data, java engineer to help build, scale and maintain the critical data warehouse.
+
+KloudOne actively contributes to the community with its employees spending 20% of time participating in open source projects (a google mantra company acquired).
